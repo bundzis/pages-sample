@@ -3,10 +3,10 @@ layout: default
 title: Home
 ---
 
-## Welcome everyone to my spiffy site!
+## Welcome everyone to my spectacular site!
+This website is so fun and so neat! You can find lots of cool things here so feel free to explore!
 
-
-#### Here are some example pages:
+#### My Pages:
 
 - [Markdown](02-markdown-examples)
 - [Images](03-images-examples)
