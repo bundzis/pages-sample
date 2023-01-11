@@ -21,9 +21,6 @@
 title: Brianna Can Code!
 email: brianna.undzis@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
   This page shows information about all the fun things Brianna is doing on 
   Github!
 baseurl: "/pages-sample" # the subpath of your site, e.g. /blog
